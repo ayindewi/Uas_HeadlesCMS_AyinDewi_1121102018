@@ -9,7 +9,7 @@
 ![Uas](https://github.com/ayindewi/Uas_HeadlesCMS_AyinDewi_1121102018/blob/main/edit2.png?raw=True)
 
 ### Tampilan Delete Barang
-![Uas](https://github.com/ayindewi/Uas_HeadlesCMS_AyinDewi_1121102018/blob/main/hapus.png?raw=True)
+![Uas](https://github.com/ayindewi/Uas_HeadlesCMS_AyinDewi_1121102018/blob/main/hapuss.png?raw=True)
 
 ### Tampilan Detail Barang
 ![Uas](https://github.com/ayindewi/Uas_HeadlesCMS_AyinDewi_1121102018/blob/main/detail.png?raw=True)
